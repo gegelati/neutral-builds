@@ -1,0 +1,14 @@
+# GEGELATI Neutral Builds
+|Date|Time|Commit|MSVC|MinGW|
+|----|----|------|----|-----|
+| Latest |  | [\`e8b7ac88\`](https://github.com/gegelati/gegelati/commit/e8b7ac88c5b5f05b50323460878dccb2e1295731) | [Zip (8992K)](./gegelatilib-msvc-latest-develop.zip) |[Zip (2730K)](./gegelatilib-mingw-latest-develop.zip) |
+| 2026-06-15 | 15:26:30 | [\`e8b7ac88\`](https://github.com/gegelati/gegelati/commit/e8b7ac88c5b5f05b50323460878dccb2e1295731) | [Zip (8992K)](./gegelatilib-msvc-2.1.0.20260615152630.zip) |[Zip (2730K)](./gegelatilib-mingw-2.1.0.20260615152630.zip) |
+| 2026-06-15 | 08:55:26 | [\`aab16e59\`](https://github.com/gegelati/gegelati/commit/aab16e59647a6820c568e607655de29b056eeac5) | [Zip (7982K)](./gegelatilib-msvc-2.0.0.20260429094123.zip) |[Zip (2730K)](./gegelatilib-mingw-2.1.0.20260604164718.zip) |
+| 2026-06-04 | 16:47:18 | [\`1efd0e0c\`](https://github.com/gegelati/gegelati/commit/1efd0e0cdba123016727938148b64fe1b0416008) | [Zip (7888K)](./gegelatilib-msvc-2.0.0.20260218093145.zip) |[Zip (2703K)](./gegelatilib-mingw-2.0.0.20260429094123.zip) |
+| 2026-04-29 | 09:41:23 | [\`6b7a9a06\`](https://github.com/gegelati/gegelati/commit/6b7a9a063871f32802573c98402728b75003b4cd) | [Zip (7169K)](./gegelatilib-msvc-2.0.0.20251211164204.zip) |[Zip (2667K)](./gegelatilib-mingw-2.0.0.20260226172504.zip) |
+| 2026-02-26 | 17:25:04 | [\`847102b9\`](https://github.com/gegelati/gegelati/commit/847102b9089f86a808299d7a0a73328d59c4dddf) | [Zip (7036K)](./gegelatilib-msvc-2.0.0.20250818161625.zip) |[Zip (2667K)](./gegelatilib-mingw-2.0.0.20260218093145.zip) |
+| 2026-02-18 | 09:31:45 | [\`4f9414f3\`](https://github.com/gegelati/gegelati/commit/4f9414f3f2bd26b980ac4f866e8e2e64142f7d3b) | [Zip (6262K)](./gegelatilib-msvc-1.4.0.20241029100411.zip) |[Zip (2454K)](./gegelatilib-mingw-2.0.0.20251211164204.zip) |
+| 2025-12-11 | 16:42:04 | [\`2ec968c7\`](https://github.com/gegelati/gegelati/commit/2ec968c7537192b5290035d9a96aa6b9deab8a2a) | [Zip (6118K)](./gegelatilib-msvc-1.3.1.20231220140901.zip) |[Zip (2397K)](./gegelatilib-mingw-2.0.0.20250919091905.zip) |
+| 2025-09-19 | 09:19:05 | [\`eb9ff526\`](https://github.com/gegelati/gegelati/commit/eb9ff526979e7e29c4260054ffe500f5bd606c66) | [Zip (6056K)](./gegelatilib-1.1.0.20220830160852.zip) |[Zip (2360K)](./gegelatilib-mingw-2.0.0.20250723161019.zip) |
+| 2025-09-16 | 14:49:13 | [\`d3efc235\`](https://github.com/gegelati/gegelati/commit/d3efc2352b46bacec31aa6987b6bc38c11090555) | [Zip (6017K)](./gegelatilib-1.1.0.20220829110016.zip) |[Zip (2171K)](./gegelatilib-mingw-1.3.1.20231215103916.zip) |
+| 2025-08-18 | 16:16:25 | [\`c913a19b\`](https://github.com/gegelati/gegelati/commit/c913a19bd0a5db4bd017108a013dde985ac852ad) | [Zip (5587K)](./gegelatilib-1.0.0.20220322093129.zip) |[Zip (12728K)](./gegelatilib-mingw-1.3.1.20231214112848.zip) |
